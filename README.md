@@ -38,11 +38,6 @@ or alternatively, you can manually open the file with your browser using File > 
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS) - Style sheet language used
 * [jQuery](https://www.jquery.com) - Javascript library used
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
 ## Authors
 
 * **Israel Matos** - [Github](https://github.com/everysum1)
