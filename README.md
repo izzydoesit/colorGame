@@ -1,9 +1,9 @@
-# Hack Overflow
+# The Color Game
 
 Challenge your color skills in this game dedicated to testing your RGB knowledge! Users win by selecting the color that matches the RGB reference shown at the top.  They can switch between EASY and HARD difficulties and can reset the colors and RGB reference at any time by clicking NEW COLORS.  When the user selects correctly, all the tiles become the winning color!!
 
-![Game start] (https://github.com)
-![Player Wins] (https://github.com)
+![Game start] (https://github.com/everysum1/colorGame/blob/master/ColorGame.png)
+![Player Wins] (https://github.com/everysum1/colorGame/blob/master/ColorGameWin.png)
 
 ## Getting Started
 
