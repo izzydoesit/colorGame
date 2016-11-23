@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 ```
-any modern browser
+Chrome, Safari, Firefox, or Internet Explorer
 ```
 
 ### Installing
@@ -28,12 +28,6 @@ Then open the HTML page in your browser.  From the command line...
 $ open index.html
 ```
 or alternatively, you can manually open the file with your browser using File > Open and navigating to the colorGame directory and selecting the index.html file.
-
-## Running ALL the tests
-
-```
-bundle exec rspec spec
-```
 
 ## Built With
 
