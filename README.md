@@ -4,7 +4,7 @@ Challenge your color skills in this game dedicated to testing your RGB knowledge
 
 ![Game start] (https://github.com/everysum1/colorGame/blob/master/ColorGame.png)
 
-When the user selects correctly, all the tiles become the winning color!!
+When the user selects correctly, all the tiles become the winning color!! You can click PLAY AGAIN? to restart game. 
 
 ![Player Wins] (https://github.com/everysum1/colorGame/blob/master/ColorGameWin.png)
 
