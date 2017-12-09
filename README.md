@@ -2,11 +2,11 @@
 
 Challenge your color skills in this game dedicated to testing your RGB knowledge! Users win by selecting the color that matches the RGB reference shown at the top.  They can switch between EASY and HARD difficulties and can reset the colors and RGB reference at any time by clicking NEW COLORS.  
 
-![Game start] (https://github.com/izzydoesit/colorGame/blob/master/ColorGame.png)
+![Game start] (https://raw.githubusercontent.com/izzydoesit/colorGame/blob/master/ColorGame.png)
 
 When the user selects correctly, all the tiles become the winning color!! You can click PLAY AGAIN? to restart game. 
 
-![Player Wins] (https://github.com/izzydoesit/colorGame/blob/master/ColorGameWin.png)
+![Player Wins] (https://raw.githubusercontent.com/izzydoesit/colorGame/blob/master/ColorGameWin.png)
 
 ## Getting Started
 
