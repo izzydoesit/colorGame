@@ -5,7 +5,7 @@ body {
 }
 
 .square {
-	width: 30%;
+	width: 40%;
 	background-color: purple;
 	padding-bottom: 30%;
 	float: left;
@@ -24,21 +24,19 @@ body {
 
 h1 {
 	color: white; 
-	text-align: center;
+	text-align: left;
 	font-weight: normal;
-	background-color: steelblue;
+	background-color: pink;
 	margin: 0;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	padding: 1% 0;
 	line-height: 1.1;
 }
 
 #colorDisplay {
 	font-weight: bold;
-	font-size: 2.2em;
+	font-size: 5px;
 }
-
-
 
 body.first-child {
 	background-color: white;
