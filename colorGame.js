@@ -31,7 +31,7 @@ function setupModeButtons(){
 function setupSquares(){
 	for (var i = 0; i < squares.length; i++) {
 		squares[i].addEventListener("click", function() {
-			var clickedColor = this.style.background;
+			var clickedColor = this.style.backgroundColor;
 			if (clickedColor === pickedColor) {
 				messageDisplay.textContent = "Correct!";
 				resetButton.textContent = "Play Again?";
