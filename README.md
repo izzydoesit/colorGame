@@ -1,6 +1,6 @@
 # The Color Game
 
-Challenge your color skills in this game dedicated to testing your RGB knowledge! Users win by selecting the color that matches the RGB reference shown at the top.  They can switch between EASY and HARD difficulties and can reset the colors and RGB reference at any time by clicking NEW COLORS.  
+[CLICK ME](https://izzydoesit.github.io/colorGame) to Challenge your color skills in this game dedicated to testing your RGB knowledge! Users win by selecting the color that matches the RGB reference shown at the top.  They can switch between EASY and HARD difficulties and can reset the colors and RGB reference at any time by clicking NEW COLORS.  
 
 ![Game start](https://github.com/izzydoesit/colorGame/blob/master/ColorGame.png)
 
